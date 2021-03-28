@@ -27,7 +27,7 @@ namespace AnagramApplication
                 }
                 else
                     Console.WriteLine("First string should be equal or lesser than Second string!!");
-                Console.WriteLine("-----------------------------------------------------------------------------------------------");
+                Console.WriteLine("-------------------------------------------------------------------------------------------------");
                 anagramResult = false;
             }
         }
